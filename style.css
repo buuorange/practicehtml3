@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.ti{
+    margin: 10px auto;
+}
+div{
+    margin: 10px auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
